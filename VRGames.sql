@@ -16,10 +16,8 @@ CREATE TABLE flatscreen_games (
 
 INSERT INTO vr_games (game_name, steam_reviews, rift_reviews, quest_reviews)
 VALUES
-    ('VRChat', 206611, 5627, 23563),
     ('Beat Saber', 70440, 15363, 49286),
     ('Gorilla Tag', 40070, 1701, 87249),
-    ('Rec Room', 58047, 5871, 28213),
     ('Blade and Sorcery', 44722, 4171, 39959),
     ('Half-Life: Alyx', 84217, 0, 0),
     ('Pavlov VR', 37455, 0, 838),
@@ -98,7 +96,6 @@ VALUES
     ('Doom VFR', 2669, 0, 0),
     ('Vanishing Realms', 2567, 0, 0),
     ('Rick and Morty: Virtual Rick-ality', 1962, 586, 0),
-    ('The Solus Project', 2546, 0, 0),
     ('Racket: NX', 505, 113, 1867),
     ('Accounting (Legacy)', 2473, 0, 0),
     ('Mission:ISS', 0, 964, 1468),
@@ -298,4 +295,7 @@ INSERT INTO flatscreen_games (game_name, steam_reviews, rift_reviews, quest_revi
 	('Derail Valley', 3158, 189, 0),
 	('Project Cars 3', 3286, 0, 0),
 	('Republique', 801, 53, 494),
+    ('VRChat', 206611, 5627, 23563),
+    ('Rec Room', 58047, 5871, 28213),
+    ('The Solus Project', 2546, 0, 0),
 	('Wrench', 1068, 95, 0);
