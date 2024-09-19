@@ -1,1 +1,1 @@
-Steam: https://store.steampowered.com/api/appdetails?appids=546560
+Steam: https://store.steampowered.com/appreviews/546560?json=1&language=all&purchase_type=all
